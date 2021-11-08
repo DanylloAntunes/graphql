@@ -1,0 +1,15 @@
+D:\Programacao\testeGraphQL\TesteGraphQL\TesteGraphQL.ServicoMapeador\obj\Debug\netstandard2.1\TesteGraphQL.ServicoMapeador.GeneratedMSBuildEditorConfig.editorconfig
+D:\Programacao\testeGraphQL\TesteGraphQL\TesteGraphQL.ServicoMapeador\obj\Debug\netstandard2.1\TesteGraphQL.ServicoMapeador.AssemblyInfoInputs.cache
+D:\Programacao\testeGraphQL\TesteGraphQL\TesteGraphQL.ServicoMapeador\obj\Debug\netstandard2.1\TesteGraphQL.ServicoMapeador.AssemblyInfo.cs
+D:\Programacao\testeGraphQL\TesteGraphQL\TesteGraphQL.ServicoMapeador\obj\Debug\netstandard2.1\TesteGraphQL.ServicoMapeador.csproj.CoreCompileInputs.cache
+D:\Programacao\testeGraphQL\TesteGraphQL\TesteGraphQL.ServicoMapeador\obj\Debug\netstandard2.1\TesteGraphQL.ServicoMapeador.csproj.AssemblyReference.cache
+D:\Programacao\testeGraphQL\TesteGraphQL\TesteGraphQL.ServicoMapeador\bin\Debug\netstandard2.1\TesteGraphQL.ServicoMapeador.deps.json
+D:\Programacao\testeGraphQL\TesteGraphQL\TesteGraphQL.ServicoMapeador\bin\Debug\netstandard2.1\TesteGraphQL.ServicoMapeador.dll
+D:\Programacao\testeGraphQL\TesteGraphQL\TesteGraphQL.ServicoMapeador\bin\Debug\netstandard2.1\TesteGraphQL.ServicoMapeador.pdb
+D:\Programacao\testeGraphQL\TesteGraphQL\TesteGraphQL.ServicoMapeador\bin\Debug\netstandard2.1\TesteGraphQL.Interfaces.dll
+D:\Programacao\testeGraphQL\TesteGraphQL\TesteGraphQL.ServicoMapeador\bin\Debug\netstandard2.1\TesteGraphQL.Negocio.dll
+D:\Programacao\testeGraphQL\TesteGraphQL\TesteGraphQL.ServicoMapeador\bin\Debug\netstandard2.1\TesteGraphQL.Interfaces.pdb
+D:\Programacao\testeGraphQL\TesteGraphQL\TesteGraphQL.ServicoMapeador\bin\Debug\netstandard2.1\TesteGraphQL.Negocio.pdb
+D:\Programacao\testeGraphQL\TesteGraphQL\TesteGraphQL.ServicoMapeador\obj\Debug\netstandard2.1\TesteGraphQL.ServicoMapeador.csproj.CopyComplete
+D:\Programacao\testeGraphQL\TesteGraphQL\TesteGraphQL.ServicoMapeador\obj\Debug\netstandard2.1\TesteGraphQL.ServicoMapeador.dll
+D:\Programacao\testeGraphQL\TesteGraphQL\TesteGraphQL.ServicoMapeador\obj\Debug\netstandard2.1\TesteGraphQL.ServicoMapeador.pdb

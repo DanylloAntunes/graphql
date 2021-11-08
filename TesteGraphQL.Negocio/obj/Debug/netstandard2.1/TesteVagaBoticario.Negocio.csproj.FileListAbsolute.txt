@@ -1,0 +1,10 @@
+D:\Programacao\testeboticario\test-c\TesteVagaBoticario\TesteVagaBoticario.Negocio\obj\Debug\netstandard2.1\TesteVagaBoticario.Negocio.csproj.AssemblyReference.cache
+D:\Programacao\testeboticario\test-c\TesteVagaBoticario\TesteVagaBoticario.Negocio\obj\Debug\netstandard2.1\TesteVagaBoticario.Negocio.GeneratedMSBuildEditorConfig.editorconfig
+D:\Programacao\testeboticario\test-c\TesteVagaBoticario\TesteVagaBoticario.Negocio\obj\Debug\netstandard2.1\TesteVagaBoticario.Negocio.AssemblyInfoInputs.cache
+D:\Programacao\testeboticario\test-c\TesteVagaBoticario\TesteVagaBoticario.Negocio\obj\Debug\netstandard2.1\TesteVagaBoticario.Negocio.AssemblyInfo.cs
+D:\Programacao\testeboticario\test-c\TesteVagaBoticario\TesteVagaBoticario.Negocio\obj\Debug\netstandard2.1\TesteVagaBoticario.Negocio.csproj.CoreCompileInputs.cache
+D:\Programacao\testeboticario\test-c\TesteVagaBoticario\TesteVagaBoticario.Negocio\bin\Debug\netstandard2.1\TesteVagaBoticario.Negocio.deps.json
+D:\Programacao\testeboticario\test-c\TesteVagaBoticario\TesteVagaBoticario.Negocio\bin\Debug\netstandard2.1\TesteVagaBoticario.Negocio.dll
+D:\Programacao\testeboticario\test-c\TesteVagaBoticario\TesteVagaBoticario.Negocio\bin\Debug\netstandard2.1\TesteVagaBoticario.Negocio.pdb
+D:\Programacao\testeboticario\test-c\TesteVagaBoticario\TesteVagaBoticario.Negocio\obj\Debug\netstandard2.1\TesteVagaBoticario.Negocio.dll
+D:\Programacao\testeboticario\test-c\TesteVagaBoticario\TesteVagaBoticario.Negocio\obj\Debug\netstandard2.1\TesteVagaBoticario.Negocio.pdb

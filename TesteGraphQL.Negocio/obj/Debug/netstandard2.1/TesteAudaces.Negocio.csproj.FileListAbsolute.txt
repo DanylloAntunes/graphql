@@ -1,0 +1,10 @@
+D:\Programacao\testeAudaces\TesteAudaces\TesteAudaces.Negocio\obj\Debug\netstandard2.1\TesteAudaces.Negocio.csproj.AssemblyReference.cache
+D:\Programacao\testeAudaces\TesteAudaces\TesteAudaces.Negocio\obj\Debug\netstandard2.1\TesteAudaces.Negocio.GeneratedMSBuildEditorConfig.editorconfig
+D:\Programacao\testeAudaces\TesteAudaces\TesteAudaces.Negocio\obj\Debug\netstandard2.1\TesteAudaces.Negocio.AssemblyInfoInputs.cache
+D:\Programacao\testeAudaces\TesteAudaces\TesteAudaces.Negocio\obj\Debug\netstandard2.1\TesteAudaces.Negocio.AssemblyInfo.cs
+D:\Programacao\testeAudaces\TesteAudaces\TesteAudaces.Negocio\obj\Debug\netstandard2.1\TesteAudaces.Negocio.csproj.CoreCompileInputs.cache
+D:\Programacao\testeAudaces\TesteAudaces\TesteAudaces.Negocio\bin\Debug\netstandard2.1\TesteAudaces.Negocio.deps.json
+D:\Programacao\testeAudaces\TesteAudaces\TesteAudaces.Negocio\bin\Debug\netstandard2.1\TesteAudaces.Negocio.dll
+D:\Programacao\testeAudaces\TesteAudaces\TesteAudaces.Negocio\bin\Debug\netstandard2.1\TesteAudaces.Negocio.pdb
+D:\Programacao\testeAudaces\TesteAudaces\TesteAudaces.Negocio\obj\Debug\netstandard2.1\TesteAudaces.Negocio.dll
+D:\Programacao\testeAudaces\TesteAudaces\TesteAudaces.Negocio\obj\Debug\netstandard2.1\TesteAudaces.Negocio.pdb

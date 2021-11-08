@@ -1,0 +1,12 @@
+D:\Programacao\testeGraphQL\TesteGraphQL\TesteGraphQL.Interfaces\obj\Debug\netstandard2.1\TesteGraphQL.Interfaces.GeneratedMSBuildEditorConfig.editorconfig
+D:\Programacao\testeGraphQL\TesteGraphQL\TesteGraphQL.Interfaces\obj\Debug\netstandard2.1\TesteGraphQL.Interfaces.AssemblyInfoInputs.cache
+D:\Programacao\testeGraphQL\TesteGraphQL\TesteGraphQL.Interfaces\obj\Debug\netstandard2.1\TesteGraphQL.Interfaces.AssemblyInfo.cs
+D:\Programacao\testeGraphQL\TesteGraphQL\TesteGraphQL.Interfaces\obj\Debug\netstandard2.1\TesteGraphQL.Interfaces.csproj.CoreCompileInputs.cache
+D:\Programacao\testeGraphQL\TesteGraphQL\TesteGraphQL.Interfaces\obj\Debug\netstandard2.1\TesteGraphQL.Interfaces.csproj.AssemblyReference.cache
+D:\Programacao\testeGraphQL\TesteGraphQL\TesteGraphQL.Interfaces\bin\Debug\netstandard2.1\TesteGraphQL.Interfaces.deps.json
+D:\Programacao\testeGraphQL\TesteGraphQL\TesteGraphQL.Interfaces\bin\Debug\netstandard2.1\TesteGraphQL.Interfaces.dll
+D:\Programacao\testeGraphQL\TesteGraphQL\TesteGraphQL.Interfaces\bin\Debug\netstandard2.1\TesteGraphQL.Interfaces.pdb
+D:\Programacao\testeGraphQL\TesteGraphQL\TesteGraphQL.Interfaces\bin\Debug\netstandard2.1\TesteGraphQL.Negocio.dll
+D:\Programacao\testeGraphQL\TesteGraphQL\TesteGraphQL.Interfaces\bin\Debug\netstandard2.1\TesteGraphQL.Negocio.pdb
+D:\Programacao\testeGraphQL\TesteGraphQL\TesteGraphQL.Interfaces\obj\Debug\netstandard2.1\TesteGraphQL.Interfaces.dll
+D:\Programacao\testeGraphQL\TesteGraphQL\TesteGraphQL.Interfaces\obj\Debug\netstandard2.1\TesteGraphQL.Interfaces.pdb
